@@ -155,7 +155,7 @@ bool DataStream::read(string& value)
 
 ### 复合数据类型编码
 
-![image-20230416145903207](D:\typora-image\image-20230416145903207.png)
+![2](https://github.com/COPELONG/CPP-Serialization/blob/main/C%2B%2B--Serialization/figs/2.png)
 
 **注：**模板函数的定义与类模板的成员函数通常放在头文件中。
 
@@ -203,7 +203,7 @@ inline bool DataStream::read(map<K, V>& value)
 
 ### 自定义对象类型编码
 
-![image-20230416172748970](D:\typora-image\image-20230416172748970.png)
+![3](https://github.com/COPELONG/CPP-Serialization/blob/main/C%2B%2B--Serialization/figs/3.png)
 
 
 
@@ -270,7 +270,7 @@ inline void DataStream::write_args(const T& head, const Args & ...arg)
 
 ## 大端与小端
 
-![image-20230416211908764](D:\typora-image\image-20230416211908764.png)
+![4](https://github.com/COPELONG/CPP-Serialization/blob/main/C%2B%2B--Serialization/figs/4.png)
 
 
 
