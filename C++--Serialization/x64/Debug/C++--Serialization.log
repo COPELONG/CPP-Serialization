@@ -1,0 +1,9 @@
+﻿  Datastream.cpp
+D:\C++Project\C++--Serialization\Datastream.cpp(21,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++Project\C++--Serialization\Datastream.cpp(22,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++Project\C++--Serialization\Datastream.cpp(39,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C++Project\C++--Serialization\Datastream.cpp(111,29): warning C4267: “初始化”: 从“size_t”转换到“int32_t”，可能丢失数据
+D:\C++Project\C++--Serialization\Datastream.cpp(149,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  C++--Serialization.vcxproj -> D:\C++Project\C++--Serialization\x64\Debug\C++--Serialization.exe
