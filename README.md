@@ -56,7 +56,7 @@
 
 ### 基本数据类型编码
 
-![image-20230415180528475](D:\typora-image\image-20230415180528475.png)
+![1](https://github.com/COPELONG/CPP-Serialization/blob/main/C%2B%2B--Serialization/figs/1.png)
 
 实现思路：
 
